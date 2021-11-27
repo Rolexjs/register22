@@ -1,7 +1,0 @@
-{
-  "token": "",
-  "prefix": ["!"],
-  "mongoUrl": "mongodb+srv://rolex:rolex@cluster0.x6ekz.mongodb.net/register?retryWrites=true&w=majority",
-  "owners": ["130350208608370689"]
-  
-}
