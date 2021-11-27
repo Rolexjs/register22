@@ -1,0 +1,7 @@
+{
+  "token": "OTEyMDE1ODQyMjc4MDAyNzM4.YZpy8Q.BPYVbj0wOP5Vlh4Q06PHryaHFnc",
+  "prefix": ["!"],
+  "mongoUrl": "mongodb+srv://rolex:rolex@cluster0.x6ekz.mongodb.net/register?retryWrites=true&w=majority",
+  "owners": ["130350208608370689"]
+  
+}
